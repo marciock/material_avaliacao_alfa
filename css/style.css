@@ -1,0 +1,16 @@
+.logo{
+	margin-left: 1em;
+	margin-top:1em;
+	
+}
+.logo img{
+	width: 30%;
+	height: 30%;
+}
+.logo h5{
+	margin-top: -1em;
+}
+
+.container{
+	margin-top: 6em;
+}
